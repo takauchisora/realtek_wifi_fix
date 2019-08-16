@@ -1,3 +1,5 @@
+''' Implements a very basic fix '''
+
 import os
 
 a = 'sudo ip link set'
